@@ -1,0 +1,23 @@
+:root {
+    --primary-darkCyan: hsl(185, 75%, 39%);
+    --primary-darkDesatBlue: hsl(229, 23%, 23%);
+    --primary-darkGrayishBlue: hsl(227, 10%, 46%);
+    --neutral-darkGray: hsl(0, 0%, 59%);
+}
+
+html {
+    font-size: 100%;
+    box-sizing: border-box;
+}
+
+* *::after *::before {
+    box-sizing: inherit;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size: 1.125rem;
+    line-height: 1.3;
+}
