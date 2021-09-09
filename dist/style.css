@@ -61,7 +61,7 @@ body::before {
     display: flex;
     flex-direction: column;
     max-height: 8.8125rem;
-    background-image: url(/images/bg-pattern-card.svg);
+    background-image: url(../images/bg-pattern-card.svg);
     background-repeat: no-repeat;
     border-top-left-radius: 0.75rem;
     border-top-right-radius: 0.75rem;
